@@ -4,6 +4,8 @@
 #folders
 !envs
 !envs/*.yaml
+!config/
+!scripts/
 
 # Don't ignore .gitignore itself
 !.gitignore
